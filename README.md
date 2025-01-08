@@ -1,2 +1,2 @@
 # Dotfile
-just bunch of my dotfiles
+ill leave my fedora setup dotfiles here, incase my system break
